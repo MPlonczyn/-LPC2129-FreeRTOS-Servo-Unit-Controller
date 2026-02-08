@@ -1,0 +1,1 @@
+The purpouse of this project is to control servo unit with FreeRTOS based system. Project is suited for custom LPC2129 PCB provided during the class and requires the newest FreeRTOS version that can be downloaded from the official site.
